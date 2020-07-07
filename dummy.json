@@ -1,0 +1,19 @@
+﻿{
+  "name": "admin",
+  "id": 123,
+  "address": {
+    "community": "Worst Coders"
+    "team": "Null Sector",
+// url
+  },
+  "platforms": [
+    {
+      "platformName": "battlenet",
+      "handle": "adminBlizzard"
+    },
+    {
+      "platformName": "steam",
+      "handle": "adminSteam"
+    }
+  ]
+}
