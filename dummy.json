@@ -2,9 +2,8 @@
   "name": "admin",
   "id": 123,
   "address": {
-    "community": "Worst Coders"
-    "team": "Null Sector",
-// url
+    "community": "Worst Coders",
+    "team": "Null Sector"
   },
   "platforms": [
     {
